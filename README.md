@@ -35,9 +35,9 @@
 
 ### 📫 Connect with Me
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shreyahullavarad@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-![Portfolio Badge](https://img.shields.io/badge/Portfolio-Coming_Soon-8A2BE2?style=for-the-badge)
+
 
 ---
 
