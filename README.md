@@ -9,10 +9,10 @@
 
 ### 🌸 About Me
 
-- 🖌️ I’m a **traditional artist** creating story-rich illustrations and manga.
-- 💡 Exploring the tech world through **C programming**, **SQL**, and **DBMS**.
-- 🌐 Currently building my **personal website** using WordPress.
-- 📘 Working on a **10-page manga-style storybook** (in progress!).
+- 🖌️ I’m a **traditional artist** creating story-rich illustrations.
+- 💡 Exploring the tech world through **C programming**,**Oracle**, **SQL**, and **DBMS**.
+  
+  
 
 ---
 
@@ -36,7 +36,8 @@
 ### 📫 Connect with Me
 
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shreyahullavarad@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-g-hullavarad-8a0382321)
+
 
 
 ---
