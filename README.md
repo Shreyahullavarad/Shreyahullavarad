@@ -20,14 +20,12 @@
 
 | 🎨 Creative Tools | 💻 Programming & Dev Tools |
 |------------------|---------------------------|
-| Sketchbook, InShot | C, SQL, HTML, CSS        |
+| Canva, Figma,  | C, SQL, HTML, CSS        |
 | WordPress         | VS Code, Git & GitHub    |
 
 ---
 
 ### ✨ Fun Facts
-
-- ☕ I don’t drink coffee… but I *love* painting it!
 - 📖 I enjoy turning everyday ideas into visual stories.
 - 💬 I believe art and code are both forms of **expression**.
 
