@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BCA Student | 💻 Technology & 🎨 Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F763D6&width=435&lines=Welcome+to+my+GitHub+profile!;Artist+%2B+Coder+%3D+Me!;Web+Designer+%7C+Traditional+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F763D6&width=435&lines=Welcome+to+my+GitHub+profile!;;Web+Designer+%7C+Traditional+Artist" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,8 +62,7 @@
 
 ### 🌈 Art Meets Code
 
-> _"Where imagination meets logic — painting stories, and coding dreams."_
-
+“Creating impactful digital experiences by merging artistry with technology, one project at a time.”
 ---
 
-<p align="center">🖤 Thanks for stopping by! 🖤</p>
+<p align="center">🖤 Thankyou for stopping by! 🖤</p>
