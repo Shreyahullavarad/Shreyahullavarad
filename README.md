@@ -2,15 +2,17 @@
 <h3 align="center">🎓 BCA Student | 💻 Technology & 🎨 Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F763D6&width=435&lines=Welcome+to+my+GitHub+profile!;Artist+%2B+Coder+%3D+Me!;We+Designer+%7C+Traditional+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F763D6&width=435&lines=Welcome+to+my+GitHub+profile!;Artist+%2B+Coder+%3D+Me!;Web+Designer+%7C+Traditional+Artist" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌸 About Me
 
-- 🖌️ I’m a **traditional artist** creating story-rich illustrations.
-- 💡 Exploring the tech world through **C programming**,**Oracle**, **SQL**, and **DBMS**.
+- 🎨 Traditional artist with a passion for digital illustration and creative design  
+- 💻 Learning **full-stack web development** and **developing strong programming skills**  
+- 🌱 Expanding skills to blend **artistic creativity** with **modern technology**  
+- 🤝 Open to collaborations on **UI design, web projects, or art-driven tech ideas**
   
   
 
@@ -20,8 +22,8 @@
 
 | 🎨 Creative Tools | 💻 Programming & Dev Tools |
 |------------------|---------------------------|
-| Canva, Figma,  | C, SQL, HTML, CSS        |
-| WordPress         | VS Code, Git & GitHub    |
+| Canva, Figma,  | C, SQL, HTML, CSS  ,Oracle      |
+| WordPress         | VS Code, Java, Python    |
 
 ---
 
