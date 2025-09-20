@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shreya Hullavarad!</h1>
-<h3 align="center">🎨 Traditional Artist | 💻 Aspiring Developer | ✨ Creative Storyteller</h3>
+<h3 align="center">🎓 BCA Student | 💻 Technology & 🎨 Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F763D6&width=435&lines=Welcome+to+my+GitHub+profile!;Artist+%2B+Coder+%3D+Me!;Manga+lover+%7C+Coffee+Painter" alt="Typing SVG" />
