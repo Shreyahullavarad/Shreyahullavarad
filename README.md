@@ -28,10 +28,19 @@
 ---
 
 ### ✨ Fun Facts
-- 📖 I enjoy turning everyday ideas into visual stories.
-- 💬 I believe art and code are both forms of **expression**.
+🖌️ I can turn a blank canvas into a colorful story in under an hour.
 
----
+💡 I love experimenting with code and creativity—sometimes I design before I program.
+
+🎧 I often listen to music while coding or painting—it fuels my creativity.
+
+🌏 I enjoy learning new tech tools and exploring digital art techniques in my free time.
+
+🕹️ I like solving puzzles and challenges—both in programming and in everyday life.
+
+☕ Coffee (or chai!) is my secret coding fuel.
+
+📚 I’m always curious—currently exploring web development, UI/UX, and digital illustration.---
 
 ### 📫 Connect with Me
 
